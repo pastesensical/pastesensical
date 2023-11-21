@@ -49,7 +49,7 @@
 <h1 align="center">what i use</h1>
 
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?logo=nvidia&logoColor=fff&style=for-the-badge)
-![INTEL](https://img.shields.io/badge/Intel-0071C5?logo=intel&logoColor=fff&style=for-the-badge)]
+![INTEL](https://img.shields.io/badge/Intel-0071C5?logo=intel&logoColor=fff&style=for-the-badge)
 ![AMD](https://img.shields.io/badge/AMD-ED1C24?logo=amd&logoColor=fff&style=for-the-badge)
 ![IDEAIntel](https://img.shields.io/badge/IntelliJ%20IDEA-000?logo=intellijidea&logoColor=fff&style=for-the-badge)
 ![MSFT](https://img.shields.io/badge/Microsoft-5E5E5E?logo=microsoft&logoColor=fff&style=for-the-badge)
@@ -68,5 +68,22 @@
 ![VSC](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)
 ![THM](https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme&logoColor=fff&style=for-the-badge)
 ![NP++](https://img.shields.io/badge/Notepad%2B%2B-90E59A?logo=notepadplusplus&logoColor=000&style=for-the-badge)
+
+<h1 align="center">my pc specs</h1>
+
+## my desktop
+
+![PCGPU](https://img.shields.io/badge/NVIDIA-GeForce_RTX_4080-grey?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=76b900)
+![PCCPU](https://img.shields.io/badge/INTEL-Core_i9_13900KS-grey?style=for-the-badge&logo=intel&logoColor=white&labelColor=0071c5)
+![PCSSD](https://img.shields.io/badge/SAMSUNG-980_EVO-grey?style=for-the-badge&logo=samsung&logoColor=white&labelColor=1428a0)
+![PCHDD](https://img.shields.io/badge/SEAGATE-Barracuda_Compute-grey?style=for-the-badge&logo=seagate&logoColor=white&labelColor=6EBE49)
+
+## my laptop
+
+![LPGPU](https://img.shields.io/badge/NVIDIA-GeForce_RTX_3050-grey?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=76b900)
+![LPCPU](https://img.shields.io/badge/AMD-Ryzen_5_6600H-grey?style=for-the-badge&logo=amd&logoColor=white&labelColor=ef0707)
+![LPSSD](https://img.shields.io/badge/CORSAIR-MP600_NVMe-grey?style=for-the-badge&logo=corsair&logoColor=black&labelColor=e9e600)
+![LPRAM](https://img.shields.io/badge/CORSAIR-Vengance_DDR5_32GB-grey?style=for-the-badge&logo=corsair&logoColor=black&labelColor=e9e600)
+
 
 <h1 align="center">👋 thank you for visiting my page 👋</h1>
