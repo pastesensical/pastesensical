@@ -6,10 +6,19 @@
   
 - 💻 i am currently working on multiple projects
 
-- 💭 my discord is currently **cheatermen**
+- 💭 my discord is currently **faracage**
 
 - 👋 and hello, welcome to my bio
 
+<h1 align="center">before you ask me...</h1>
+
+- [**don't ask for your attempted solution rather than your actual solution plz**](https://xyproblem.info/)
+
+- [**plz don't put me on hold as soon as you ping/say hello to me**](https://nohello.net/en/)
+
+- [**plz don't send me "didn't work" when dealing with a serious question**](https://itdidnt.work/)
+
+- [**and plz try it for yourself before asking me to make anything... trust me you'll get into something you like**](https://tryitands.ee/)
 
 <h1 align="center">my projects</h1>
 
@@ -19,21 +28,22 @@
 
 - [**pastesense (newest)**](https://i.imgur.com/U34h4Bg.png)
 
-- [**futuere (discontinued)**](https://futuereisnomore.lol)
+- 💻 my past projects are:
+
+- [**futuere (discontinued)**](https://google.com)
 
 - 💻 all of these are in roblox lua or in java
 
 <h1 align="center">my languages</h1>
 
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge)
+![Py](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![CS](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![CPP](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Py](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 <h1 align="center">my previous experiences</h1>
 
 > for any games, i helped either develop cheats or experiences. lighthouse pull requests also are a pain in the ass
